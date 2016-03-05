@@ -1,2 +1,2 @@
 # itech
-creating a web application
+Creating a web application.
