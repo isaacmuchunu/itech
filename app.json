@@ -1,0 +1,17 @@
+{
+  "name": "itech",
+  "description": "a web platform for chatt",
+  "scripts": {
+  },
+  "env": {
+    "undefined": "kukus1993"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
